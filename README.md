@@ -1,4 +1,4 @@
-### 👋 Full-Stack Developer - (React | Vue | Node | Express | Python | PHP) 👋
+### 👋 Full-Stack Developer - (React | Vue | Node | Express | Python | Django | Flask | PHP | Laravel) 👋
 
 A Professional Software Engineer based in Mexico who is dedicated and possesses extensive knowledge and experience.
 - I love building state-of-the-art, user-friendly, powerful, responsive websites and web applications and that's my passion.
